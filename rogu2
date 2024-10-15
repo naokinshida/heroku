@@ -1,0 +1,10 @@
+C:\pleiades\2024-06\kadai_002\nagoyameshi>heroku config
+ »   Warning: heroku update available from 9.0.0 to 9.3.0.
+=== nagoyameshi1016 Config Vars
+
+DB_PASSWORD:           yhar13iv4es5pkja
+DB_URL:                jdbc:mysql://3306/o99kche3o4mya7tt
+DB_USERNAME:           //irm3jm2n1gfhyaxj
+JAWSDB_MARIA_URL:      mysql://irm3jm2n1gfhyaxj:yhar13iv4es5pkja@klbcedmmqp7w17ik.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/o99kche3o4mya7ttMAIL_PASSWORD:         Gtrnsx-86
+MAIL_USERNAME:         naodance246@gmail.com
+STRIPE_API_KEY:        sk_test_51PhnYHENjJ7uZX1aJ6hA06wzRl2SVkcjsAJbx0DQSkgMRVx5Cs9TbWkHgdES1cMSzQTeTltwEEfaLF9geuY5Ne4v00HQdEC6iESTRIPE_WEBHOOK_SECRET: whsec_eIyjinvEnSI0TpxUS8cmrOQxTeMEiOub
